@@ -2,6 +2,8 @@
 
 > Convert a JSON or a Javascript object into a valid YAML configuration file
 
+[![Build Status](https://travis-ci.org/gabrieledarrigo/grunt-yml.svg?branch=master)](https://travis-ci.org/gabrieledarrigo/grunt-yml)
+
 ## Getting Started
 This plugin requires Grunt `~0.4.5`
 
