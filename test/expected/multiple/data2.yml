@@ -1,0 +1,9 @@
+foo: 1
+bar: 2
+a:
+  - 1
+  - 2
+  - 3
+b:
+  nested:
+    subnested: true
