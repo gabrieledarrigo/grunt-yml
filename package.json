@@ -2,22 +2,22 @@
   "name": "grunt-yml",
   "description": "Convert a JSON or a Javascript object into a valid .yml configuration",
   "version": "0.1.0",
-  "homepage": "https://github.com/gdarrigo/grunt-yml",
+  "homepage": "https://github.com/gabrieledarrigo/grunt-yml",
   "author": {
-    "name": "gdarrigo",
-    "email": "gdarrigo@ebay.com"
+    "name": "gabrieledarrigo",
+    "email": "darrigo.g@gmail.com"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/gdarrigo/grunt-yml.git"
+    "url": "https://github.com/gabrieledarrigo/grunt-yml.git"
   },
   "bugs": {
-    "url": "https://github.com/gdarrigo/grunt-yml/issues"
+    "url": "https://github.com/gabrieledarrigo/grunt-yml/issues"
   },
   "licenses": [
     {
       "type": "MIT",
-      "url": "https://github.com/gdarrigo/grunt-yml/blob/master/LICENSE-MIT"
+      "url": "https://github.com/gabrieledarrigo/grunt-yml/blob/master/LICENSE"
     }
   ],
   "engines": {
@@ -38,7 +38,9 @@
     "grunt": "~0.4.5"
   },
   "keywords": [
-    "gruntplugin"
+    "gruntplugin",
+    "yaml",
+    "yml"
   ],
   "dependencies": {
     "js-yaml": "^3.3.1"
